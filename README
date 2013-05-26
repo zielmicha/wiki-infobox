@@ -1,0 +1,4 @@
+>>> import infobox
+>>> c = infobox.get('Ceasium')
+>>> c.melting_point
+301.59
